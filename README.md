@@ -1,4 +1,4 @@
-# Step 0
+# Clone the repo and its dependencies
 Clone this repository and its hooked submodules:
 ```
 git clone --recurse-submodules https://github.com/danielemorra98/mpc.git
