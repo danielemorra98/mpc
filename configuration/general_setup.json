@@ -1,0 +1,10 @@
+{
+  "control_active": true,
+  "omega_plot": false,
+  "desired_attitude_thrust_plot": false,
+  "drone_velocity_plot": false,
+  "drone_acceleration_plot": false,
+  "desired_position_plot": true,
+  "desired_velocity_plot": true,
+  "desired_acceleration_plot": true
+}
